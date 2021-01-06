@@ -61,7 +61,7 @@
     ```bash
     git add .
     git commit -m 'commit message'
-    git push heroku master
+    git push heroku Main
     ```
 
 ## How to make changes and redeploy the code:
@@ -70,7 +70,7 @@
     ```bash
     git add .
     git commit -m 'commit message'
-    git push heroku master
+    git push heroku Main
     ```
 
 
